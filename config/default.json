@@ -1,0 +1,6 @@
+{
+  "db": "mongodb://localhost/react-workout-logger-development",
+  "port": "3900",
+  "requiresAuth": true,
+  "jwtPrivateKey": "unSecured Key"
+}
