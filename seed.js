@@ -157,8 +157,8 @@ async function seed() {
 
   const userData = [
     {
-      username: "Tommy",
-      email: "tommy1234@gmail.com",
+      username: "John",
+      email: "john1234@gmail.com",
       password: hashPassword,
       workouts: workoutData,
       logs: logData,
